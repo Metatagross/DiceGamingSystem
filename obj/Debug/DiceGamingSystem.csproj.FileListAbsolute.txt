@@ -1,0 +1,113 @@
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\ApplicationInsights.config
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.dll.config
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.pdb
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Antlr3.Runtime.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Autofac.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Autofac.Integration.WebApi.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Web.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.ApplicationInsights.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Newtonsoft.Json.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\NLog.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Swashbuckle.Core.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Net.Http.Formatting.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Helpers.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.WebHost.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Mvc.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Optimization.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Razor.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Deployment.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Razor.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\WebActivatorEx.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\WebGrease.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Antlr3.Runtime.pdb
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Autofac.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Autofac.Integration.WebApi.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Web.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.ApplicationInsights.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\NLog.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Helpers.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Mvc.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Optimization.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Razor.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Deployment.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Razor.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\Newtonsoft.Json.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Net.Http.Formatting.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.WebHost.xml
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\obj\Debug\DiceGamingSystem.dll
+D:\FMI\Трети курс\Първи семестър\XML\DTD_Example\DiceGamingSystem\DiceGamingSystem\obj\Debug\DiceGamingSystem.pdb
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\ApplicationInsights.config
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.dll.config
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\DiceGamingSystem.pdb
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Antlr3.Runtime.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Autofac.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Autofac.Integration.WebApi.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Web.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.ApplicationInsights.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Newtonsoft.Json.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\NLog.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Swashbuckle.Core.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Net.Http.Formatting.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Helpers.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.WebHost.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Mvc.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Optimization.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Razor.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Deployment.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Razor.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\WebActivatorEx.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\WebGrease.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Antlr3.Runtime.pdb
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Autofac.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Autofac.Integration.WebApi.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.Web.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Microsoft.ApplicationInsights.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\NLog.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Helpers.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Mvc.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Optimization.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Razor.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Deployment.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.WebPages.Razor.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\Newtonsoft.Json.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Net.Http.Formatting.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\bin\System.Web.Http.WebHost.xml
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\obj\Debug\DiceGamingSystem.csprojResolveAssemblyReference.cache
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\obj\Debug\DiceGamingSystem.dll
+D:\FMI\Трети курс\Първи семестър\Уеб програмиране с Microsoft Azure и C#.NET\DiceGamingSystem\DiceGamingSystem\obj\Debug\DiceGamingSystem.pdb
